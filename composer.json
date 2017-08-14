@@ -6,9 +6,6 @@
             "email": "sufei@cheyian.com"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
     "autoload": {
         "psr-4": { "cy\\validators\\": "src/" }
     }
