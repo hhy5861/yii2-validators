@@ -1,6 +1,6 @@
 <?php
 
-namespace cy\validators;
+namespace mike\validators;
 
 use yii\validators\NumberValidator;
 

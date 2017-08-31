@@ -1,5 +1,5 @@
 {
-    "name": "cy/validators",
+    "name": "mike/validators",
     "authors": [
          {
             "name": "mike",
@@ -7,9 +7,9 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "2.0.7"
     },
     "autoload": {
-        "psr-4": { "cy\\validators\\": "src/" }
+        "psr-4": { "mike\\validators\\": "src/" }
     }
 }
